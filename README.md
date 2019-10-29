@@ -1,2 +1,3 @@
-# hello_collection
-hello world example of ansible collection
+# Ansible Collection - test.test
+
+Documentation for the collection.
